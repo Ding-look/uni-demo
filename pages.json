@@ -1,0 +1,76 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/MSite/MSite",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/Search/Search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/Profile/Profile",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/Order/Order",
+			"style": {
+				"navigationBarTitleText": "订单",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/Login/Login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/Shop/Shop",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#02a774",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/MSite/MSite",
+			"iconPath": "static/images/tabbar/waimai.png",
+			"selectedIconPath": "static/images/tabbar/waimai_active.png",
+			"text": "外卖"
+		}, {
+			"pagePath": "pages/Search/Search",
+			"iconPath": "static/images/tabbar/search.png",
+			"selectedIconPath": "static/images/tabbar/search_active.png",
+			"text": "搜索"
+		}, {
+			"pagePath": "pages/Order/Order",
+			"iconPath": "static/images/tabbar/order.png",
+			"selectedIconPath": "static/images/tabbar/order_active.png",
+			"text": "订单"
+		}, {
+			"pagePath": "pages/Profile/Profile",
+			"iconPath": "static/images/tabbar/wode.png",
+			"selectedIconPath": "static/images/tabbar/wode_active.png",
+			"text": "我的"
+		}]
+	}
+}

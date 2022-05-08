@@ -1,0 +1,197 @@
+{
+      "code": 0,
+      "shops": [
+        {
+          "_v": 0,
+          "description": "sad",
+          "id": 1,
+          "category": "快餐便当/简餐",
+          "distance": "2120.1公里",
+          "float_delivery_fee": 5,
+          "float_minimum_order_amount": 20,
+          "address": "武汉市江汉区",
+          "name": "嘉禾一号/温都水城",
+          "latitude": 40.10038,
+          "longitude": 116.36867,
+          "image_path": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+          "rating": 3.8,
+          "recent_order_num": 106,
+          "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "快鸟专送"
+          },
+          "supports": [
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "保",
+              "id": 7,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "准",
+              "id": 8,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "票",
+              "id": 9,
+              "name": "外卖保"
+            }
+          ]
+        },
+        {
+          "_v": 0,
+          "description": "sad",
+          "id": 2,
+          "category": "快餐便当/简餐",
+          "distance": "2120.1公里",
+          "float_delivery_fee": 5,
+          "float_minimum_order_amount": 20,
+          "address": "武汉市江汉区",
+          "name": "嘉禾一号/温都水城",
+          "latitude": 40.10038,
+          "longitude": 116.36867,
+          "image_path": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+          "rating": 4.7,
+          "recent_order_num": 106,
+          "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "快鸟专送"
+          },
+          "supports": [
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "保",
+              "id": 7,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "准",
+              "id": 8,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "票",
+              "id": 9,
+              "name": "外卖保"
+            }
+          ]
+        },
+        {
+          "_v": 0,
+          "description": "sad",
+          "id": 3,
+          "category": "快餐便当/简餐",
+          "distance": "2120.1公里",
+          "float_delivery_fee": 5,
+          "float_minimum_order_amount": 20,
+          "address": "武汉市江汉区",
+          "name": "嘉禾一号/温都水城",
+          "latitude": 40.10038,
+          "longitude": 116.36867,
+          "image_path": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+          "rating": 2.5,
+          "recent_order_num": 106,
+          "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "快鸟专送"
+          },
+          "supports": [
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "保",
+              "id": 7,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "准",
+              "id": 8,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "票",
+              "id": 9,
+              "name": "外卖保"
+            }
+          ]
+        },
+        {
+          "_v": 0,
+          "description": "sad",
+          "id": 4,
+          "category": "快餐便当/简餐",
+          "distance": "2120.1公里",
+          "float_delivery_fee": 5,
+          "float_minimum_order_amount": 20,
+          "address": "武汉市江汉区",
+          "name": "嘉禾一号/温都水城",
+          "latitude": 40.10038,
+          "longitude": 116.36867,
+          "image_path": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+          "rating": 3.2,
+          "recent_order_num": 106,
+          "delivery_mode": {
+            "color": "57A9FF",
+            "id": 1,
+            "is_solid": true,
+            "text": "快鸟专送"
+          },
+          "supports": [
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "保",
+              "id": 7,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "准",
+              "id": 8,
+              "name": "外卖保"
+            },
+            {
+              "_id": "_5a5859a",
+              "description": "已加入'外卖保'计划",
+              "icon_color": "999999",
+              "icon_name": "票",
+              "id": 9,
+              "name": "外卖保"
+            }
+          ]
+        }
+      ]
+    }

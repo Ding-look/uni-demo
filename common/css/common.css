@@ -1,0 +1,12 @@
+/* 全局公共样式 */
+
+/* 按钮点击效果 */
+.button-hover {
+	opacity: .7;
+}
+
+/* view点击效果 */
+.view-hover {
+	background-color: rgba(0,0,0,.1);
+	opacity: .7;
+}

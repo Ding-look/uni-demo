@@ -1,0 +1,181 @@
+{
+    "code": 0,
+    "categorys": [
+      {
+        "_v": 0,
+        "description": "苦了累了，来点甜的",
+        "icon_url": "",
+        "id": 20,
+        "image_url": "static/images/nav/1.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "甜品饮品",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 10,
+        "image_url": "static/images/nav/2.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "商超便利",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 30,
+        "image_url": "static/images/nav/3.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "美食",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 40,
+        "image_url": "static/images/nav/4.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "简餐",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 50,
+        "image_url": "static/images/nav/5.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "新店特惠",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 60,
+        "image_url": "static/images/nav/6.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "准时达",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 70,
+        "image_url": "static/images/nav/7.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "预定早餐",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 80,
+        "image_url": "static/images/nav/8.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "土豪推荐",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 90,
+        "image_url": "static/images/nav/9.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "川湘菜",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 100,
+        "image_url": "static/images/nav/10.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "麻辣烫",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 110,
+        "image_url": "static/images/nav/11.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "包子粥店",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 120,
+        "image_url": "static/images/nav/12.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "鲜花蛋糕",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 130,
+        "image_url": "static/images/nav/13.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "日韩料理",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 140,
+        "image_url": "static/images/nav/14.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "蔬果生鲜",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 150,
+        "image_url": "static/images/nav/13.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "汉堡薯条",
+        "title_color": ""
+      },
+      {
+        "_v": 0,
+        "description": "足不出户，便利回家",
+        "icon_url": "",
+        "id": 160,
+        "image_url": "static/images/nav/14.jpg",
+        "is_in_serving": true,
+        "link": "",
+        "title": "披萨家园",
+        "title_color": ""
+      }
+    ]
+  }

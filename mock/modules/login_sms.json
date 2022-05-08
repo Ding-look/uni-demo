@@ -1,0 +1,12 @@
+{
+    "code": 0,
+    "userInfo": {
+      "id": 1,
+      "name": "用户1133",
+      "phone": "13657277062",
+	  "user_photo": "static/images/photo.jpg",
+	  "balance": 5,
+	  "coupon": 2,
+	  "integral": 100
+    }
+  }
